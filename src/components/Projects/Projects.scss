@@ -1,0 +1,51 @@
+.project-list {
+  margin-top: 40px;
+}
+
+.project-box {
+  display: flex;
+  align-items: center;
+  height: 180px;
+ 
+
+  img {
+    width: 246px;    
+    border-radius: 6px;    
+    border: 1px #E0E0E0 solid;
+  }
+
+  h1 {
+    margin: 0px;
+  }
+
+  a {
+    text-decoration: none;
+    color: #21243D;
+    font-weight: bold;
+    font-size: 30px;
+  }
+
+  p {
+    color: #21243D;
+    font-size: 16px;
+  }
+}
+
+.project-text {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  margin-left: 20px;  
+}
+
+.line {
+  width: 100%;
+}
+
+@media(max-width:700px) {
+  .project-box{
+    flex-direction: column;
+    height: 300px;
+    text-align: center;
+  }
+}

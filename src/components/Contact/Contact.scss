@@ -1,0 +1,20 @@
+.contact-box {
+
+  h1 {
+    margin-top: 40px;
+  }
+
+  ul {
+    margin-top: 40px;
+    list-style-type: none;
+    display: flex;
+    justify-content: space-between;
+    margin: 80px 0 80px;
+    padding: 0px 40px;
+
+    img {
+      width: 40px;
+      color: var(--dark);
+    }
+  }  
+}
