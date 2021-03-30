@@ -64,7 +64,7 @@ function App() {
         title: "Instagram Clone",
         description: "Projeto de Instagram Clone utilizando React, TypeScript e Redux.",
         image: ProjectInstagram,        
-        codeLink: "https://github.com/leandronunesdev/instagram-clone",
+        codeLink: "https://github.com/leandronunesdev/instagram-clone2",
         liveLink: ""
       },
       {

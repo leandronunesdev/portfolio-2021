@@ -9,7 +9,7 @@ const Hero = () => {
         <img src={profile_pic} alt="Leandro"/>
       </div>
       <div className="hero-text">
-        <h1>Olá, sou Leandro,<br/> Desenvolvedor Front-End</h1>
+        <h1>Leandro Nunes,<br/> Desenvolvedor Front-End</h1>
         <p>Analista de Compliance em transição de carreira para Desenvolvedor Front-End. 
           Possuo conhecimento em ReactJS, TypeScript, Redux, HTML5, CSS3 e JavaScript.
           Tenho visão crítica e analítica, capacidade de planejamento, organização e senso de urgência.

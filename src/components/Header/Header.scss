@@ -1,9 +1,18 @@
+.header {
+  position: fixed;
+  top: 0px;
+  right: 0px;
+  background-color: #fff;
+  width: 100%;   
+}
+
 .navbar {
+  
   ul {
     list-style-type: none;
     display: flex;
-    padding: 0;  
-    justify-content: flex-end;
+    padding: 0px 50px;  
+    justify-content: flex-end;   
   
     li {
       margin-left: 32px;

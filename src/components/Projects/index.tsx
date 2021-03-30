@@ -12,7 +12,7 @@ const Projects = (prop: Dados) => {
 
   return (
     <div>
-      <h1 id="projects" className="section-title">Meus Projetos</h1>
+      <h1 id="projects" className="section-title">Projetos</h1>
       <div className="project-list">
         {
           projects !== null &&

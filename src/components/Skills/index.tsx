@@ -8,7 +8,7 @@ const Skills = (prop: Dados) => {
   
   return (
     <div className="skills-box">      
-      <h1 id="skills" className="section-title">Minhas Skills</h1>
+      <h1 id="skills" className="section-title">Skills</h1>
       <ul>
         {
           skills !== null &&
