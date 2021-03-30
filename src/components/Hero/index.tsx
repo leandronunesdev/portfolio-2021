@@ -15,7 +15,7 @@ const Hero = () => {
           Tenho visão crítica e analítica, capacidade de planejamento, organização e senso de urgência.
           Sou cooperativo, multiplicador de conhecimento, tenho facilidade de comunicação oral e escrita e nível avançado de inglês.          
         </p>
-        <a href="https://drive.google.com/file/d/1QAoxyCeapYmO7K3yTU2_BQh4rGP0zvn3/view?usp=sharing" target="_blank"><button className="button-styled">Baixar Currículo</button></a>
+        <a href="https://github.com/leandronunesdev/curriculo/raw/master/LEANDRO%20NUNES%20-%20DEV.pdf" target="_blank"><button className="button-styled">Baixar Currículo</button></a>
       </div>
       <div className="hero-image desktop">
         <img src={profile_pic} alt="Leandro"/>
