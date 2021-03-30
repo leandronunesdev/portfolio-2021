@@ -42,6 +42,18 @@
   width: 100%;
 }
 
+.button-styled {
+  background-color: var(--red);
+  border: none;
+  border-radius: 2px;
+  font-size: 16px;
+  font-family: 'Heebo', sans-serif;
+  color: white;
+  padding: 5px 10px;
+  cursor: pointer;
+  margin-right: 10px;
+}
+
 @media(max-width:700px) {
   .project-box{
     flex-direction: column;

@@ -4,42 +4,43 @@ import ProjectFoodShop from '../../images/food-shop.png'
 import Line from '../../images/line.png'
 
 import './Projects.scss'
+import { Dados, Project } from '../../types/perfil'
 
-const Projects = () => {
+const Projects = (prop: Dados) => {
+
+  const { projects } = prop.dados
+
   return (
     <div>
       <h1 id="projects" className="section-title">Meus Projetos</h1>
       <div className="project-list">
-      <div className="project-box">
-        <div className="project-img">
-          <a href="https://github.com/leandronunesdev/curriculo-typescript" target="_blank"><img src={ProjectCurriculo} alt="Projeto Currículo"/></a>          
-        </div>
-        <div className="project-text">
-          <h1><a href="https://github.com/leandronunesdev/curriculo-typescript" target="_blank">Currículo Online</a></h1>
-          <p>Projeto de Currículo Online utilizando React e TypeScript.</p>
-        </div>        
-      </div>
-      <img src={Line} className="line" alt="linha"/>
-      <div className="project-box">
-        <div className="project-img">
-          <a href="https://github.com/leandronunesdev/instagram-clone" target="_blank"><img src={ProjectInstagram} alt="Projeto Instagram Clone"/></a>          
-        </div>
-        <div className="project-text">
-          <h1><a href="https://github.com/leandronunesdev/instagram-clone" target="_blank">Instagram Clone</a></h1>
-          <p>Projeto de Instagram Clone utilizando React, TypeScript e Redux.</p>
-        </div>        
-      </div>
-      <img src={Line} className="line" alt="linha"/>
-      <div className="project-box">
-        <div className="project-img">
-          <a href="https://github.com/leandronunesdev/food-shop" target="_blank"><img src={ProjectFoodShop} alt="Projeto Food Shop"/></a>          
-        </div>
-        <div className="project-text">
-          <h1><a href="https://github.com/leandronunesdev/food-shop" target="_blank">Food Shop</a></h1>
-          <p>Projeto de Loja Online usando consumo de API. Ferramentas: React e TypeScript</p>
-        </div>        
-      </div>
-      <img src={Line} className="line" alt="linha"/>
+        {
+          projects !== null &&
+          projects.map((item: Project) => (
+            <>
+            <div key={item.id} className="project-box">
+              <div className="project-img">
+                <a href={item.codeLink} target="_blank"><img src={item.image} alt={item.title}/></a>          
+              </div>
+              <div className="project-text">
+                <h1><a href={item.codeLink} target="_blank">{item.title}</a></h1>
+                <p>{item.description}</p>
+                <div>
+                  {
+                    item.liveLink !== "" &&
+                    <a href={item.liveLink} target="_blank"><button className="button-styled">Ver em Produção</button></a>
+                  } 
+                  {
+                    item.codeLink !== "" &&
+                    <a href={item.codeLink} target="_blank"><button className="button-styled">Ver no Github</button></a>
+                  }                 
+                </div>                              
+              </div>    
+            </div>
+            <img src={Line} className="line" alt="linha"/>
+            </>            
+          ))
+        }
       </div>      
     </div>
   )
