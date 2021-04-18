@@ -20,13 +20,14 @@
 
 @media(max-width:700px){
 
-  .skills-box{
-    ul{
-      flex-direction: column; 
+  .skills-box{    
+
+    ul{           
+      flex-direction: column;
        
     }
     li{
-      margin: 0px;
+      margin: 0px;      
     }
   }
 }

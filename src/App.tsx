@@ -21,6 +21,7 @@ import ProjectInstagram from '../src/images/instagram-clone.png'
 import ProjectTwitter from '../src/images/twitter-clone.png'
 import ProjectTransportadora from '../src/images/transportadora.png'
 import ProjectPortfolio from '../src/images/portfolio.png'
+import ProjectEmporio from '../src/images/emporio.png'
 
 function App() {
 
@@ -59,6 +60,14 @@ function App() {
       }
     ],
     projects: [
+      {
+        id: 7,
+        title: "Empório da Cerveja",
+        description: "Projeto baseado no site da Ambev de mesmo nome. Consumo de API através de autenticação via Token. Simulação de um carrinho de compras. Tecnologias utilizadas: React, TypeScript e Redux.",
+        image: ProjectEmporio,        
+        codeLink: "https://github.com/leandronunesdev/emporio",
+        liveLink: ""
+      },
       {
         id: 1,
         title: "Instagram Clone",
