@@ -1,0 +1,39 @@
+{
+  "files": {
+    "main.css": "./static/css/main.33c319eb.chunk.css",
+    "main.js": "./static/js/main.ccf9ee41.chunk.js",
+    "main.js.map": "./static/js/main.ccf9ee41.chunk.js.map",
+    "runtime-main.js": "./static/js/runtime-main.794ecd34.js",
+    "runtime-main.js.map": "./static/js/runtime-main.794ecd34.js.map",
+    "static/js/2.afaef35a.chunk.js": "./static/js/2.afaef35a.chunk.js",
+    "static/js/2.afaef35a.chunk.js.map": "./static/js/2.afaef35a.chunk.js.map",
+    "index.html": "./index.html",
+    "static/css/main.33c319eb.chunk.css.map": "./static/css/main.33c319eb.chunk.css.map",
+    "static/js/2.afaef35a.chunk.js.LICENSE.txt": "./static/js/2.afaef35a.chunk.js.LICENSE.txt",
+    "static/media/css3.8808b683.svg": "./static/media/css3.8808b683.svg",
+    "static/media/curriculo-typescript.f18ea407.png": "./static/media/curriculo-typescript.f18ea407.png",
+    "static/media/emporio.4fb1e92a.png": "./static/media/emporio.4fb1e92a.png",
+    "static/media/food-shop.6d51afcc.png": "./static/media/food-shop.6d51afcc.png",
+    "static/media/gmail.dd7bfc1d.svg": "./static/media/gmail.dd7bfc1d.svg",
+    "static/media/heart.9587be3a.svg": "./static/media/heart.9587be3a.svg",
+    "static/media/html5.c6cecde0.svg": "./static/media/html5.c6cecde0.svg",
+    "static/media/instagram-clone.fd01a024.png": "./static/media/instagram-clone.fd01a024.png",
+    "static/media/javascript.dd7004ed.svg": "./static/media/javascript.dd7004ed.svg",
+    "static/media/logotipo-do-linkedin.e3b78533.svg": "./static/media/logotipo-do-linkedin.e3b78533.svg",
+    "static/media/placa-do-github.59f8ab11.svg": "./static/media/placa-do-github.59f8ab11.svg",
+    "static/media/portfolio.3728c0e8.png": "./static/media/portfolio.3728c0e8.png",
+    "static/media/profile-picture_square.48146ed6.jpg": "./static/media/profile-picture_square.48146ed6.jpg",
+    "static/media/reactjs.08aaf594.svg": "./static/media/reactjs.08aaf594.svg",
+    "static/media/redux.d5316307.svg": "./static/media/redux.d5316307.svg",
+    "static/media/transportadora.fdcb44d5.png": "./static/media/transportadora.fdcb44d5.png",
+    "static/media/twitter-clone.8468d18e.png": "./static/media/twitter-clone.8468d18e.png",
+    "static/media/typescript.1559de66.svg": "./static/media/typescript.1559de66.svg",
+    "static/media/whatsapp.f662d794.svg": "./static/media/whatsapp.f662d794.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.794ecd34.js",
+    "static/js/2.afaef35a.chunk.js",
+    "static/css/main.33c319eb.chunk.css",
+    "static/js/main.ccf9ee41.chunk.js"
+  ]
+}
