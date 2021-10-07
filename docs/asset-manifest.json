@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "./static/css/main.33c319eb.chunk.css",
-    "main.js": "./static/js/main.ccf9ee41.chunk.js",
-    "main.js.map": "./static/js/main.ccf9ee41.chunk.js.map",
+    "main.js": "./static/js/main.e72ab170.chunk.js",
+    "main.js.map": "./static/js/main.e72ab170.chunk.js.map",
     "runtime-main.js": "./static/js/runtime-main.794ecd34.js",
     "runtime-main.js.map": "./static/js/runtime-main.794ecd34.js.map",
     "static/js/2.afaef35a.chunk.js": "./static/js/2.afaef35a.chunk.js",
@@ -14,6 +14,7 @@
     "static/media/curriculo-typescript.f18ea407.png": "./static/media/curriculo-typescript.f18ea407.png",
     "static/media/emporio.4fb1e92a.png": "./static/media/emporio.4fb1e92a.png",
     "static/media/food-shop.6d51afcc.png": "./static/media/food-shop.6d51afcc.png",
+    "static/media/git.eef44b90.svg": "./static/media/git.eef44b90.svg",
     "static/media/gmail.dd7bfc1d.svg": "./static/media/gmail.dd7bfc1d.svg",
     "static/media/heart.9587be3a.svg": "./static/media/heart.9587be3a.svg",
     "static/media/html5.c6cecde0.svg": "./static/media/html5.c6cecde0.svg",
@@ -23,6 +24,7 @@
     "static/media/placa-do-github.59f8ab11.svg": "./static/media/placa-do-github.59f8ab11.svg",
     "static/media/portfolio.3728c0e8.png": "./static/media/portfolio.3728c0e8.png",
     "static/media/profile-picture_square.48146ed6.jpg": "./static/media/profile-picture_square.48146ed6.jpg",
+    "static/media/react-native.ee35de07.svg": "./static/media/react-native.ee35de07.svg",
     "static/media/reactjs.08aaf594.svg": "./static/media/reactjs.08aaf594.svg",
     "static/media/redux.d5316307.svg": "./static/media/redux.d5316307.svg",
     "static/media/transportadora.fdcb44d5.png": "./static/media/transportadora.fdcb44d5.png",
@@ -34,6 +36,6 @@
     "static/js/runtime-main.794ecd34.js",
     "static/js/2.afaef35a.chunk.js",
     "static/css/main.33c319eb.chunk.css",
-    "static/js/main.ccf9ee41.chunk.js"
+    "static/js/main.e72ab170.chunk.js"
   ]
 }
