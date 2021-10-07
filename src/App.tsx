@@ -14,6 +14,8 @@ import LogoRedux from '../src/images/redux.svg';
 import LogoJavaScript from '../src/images/javascript.svg';
 import LogoCSS from '../src/images/css3.svg';
 import LogoHTML from '../src/images/html5.svg';
+import LogoReactNative from '../src/images/react-native.svg';
+import LogoGit from '../src/images/git.svg';
 
 import ProjectFoodShop from '../src/images/food-shop.png';
 import ProjectCurriculo from '../src/images/curriculo-typescript.png';
@@ -40,6 +42,16 @@ function App() {
         id: 3,
         name: 'Redux',
         image: LogoRedux,
+      },
+      {
+        id: 4,
+        name: 'React Native',
+        image: LogoReactNative,
+      },
+      {
+        id: 5,
+        name: 'Git',
+        image: LogoGit,
       },
       {
         id: 4,
