@@ -125,9 +125,9 @@ function App() {
       },
       {
         id: 6,
-        title: 'Portfolio',
+        title: 'Portfólio',
         description:
-          'Site de portfolio pessoal utilizando React, TypeScript e SASS',
+          'Site de portfólio pessoal utilizando React, TypeScript e SASS',
         image: ProjectPortfolio,
         codeLink: 'https://github.com/leandronunesdev/portfolio-2021',
         liveLink: 'https://leandronunes.dev/',
