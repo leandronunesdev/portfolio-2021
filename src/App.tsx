@@ -81,7 +81,7 @@ function App() {
       {
         id: 7,
         title: 'Beer Empire',
-        description: `Personal project based on a real website. It's a complete CRUD with authentication and access level. Made with React, Reduxx, Typescript and Styled Components`,
+        description: `Personal project based on a real website. It's a complete CRUD with authentication and access level. Made with React, Redux, TypeScript and Styled Components`,
         image: ProjectEmporio,
         codeLink: 'https://github.com/leandronunesdev/beer_empire',
         liveLink: '',

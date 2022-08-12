@@ -3,12 +3,6 @@
 ## Online Portfolio project using React, TypeScript and SASS
 
 <p align="center">
- <a href="#pre-requisitos">Pré-requisitos</a> •
- <a href="#tecnologias">Tecnologias</a> • 
- <a href="#autor">Autor</a>
-</p>
-
-<p align="center">
  <a href="#requirements">Requirements</a> •
  <a href="#technologies">Technologies</a> • 
  <a href="#author">Author</a>
