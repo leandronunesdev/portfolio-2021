@@ -72,45 +72,42 @@ function App() {
     projects: [
       {
         id: 5,
-        title: 'Site Institucional',
-        description:
-          'Trabalho Freelance realizado para a agência Imaggine de site institucional de transportadora. Site em Wordpress com customizações do CSS',
+        title: 'Institutional Website',
+        description: `Freelance work done for a communication agency of a carrier's institutional website. WordPress site with CSS customizations`,
         image: ProjectTransportadora,
         codeLink: '',
         liveLink: 'http://awcompany.com.br/',
       },
       {
         id: 7,
-        title: 'Empório da Cerveja',
-        description:
-          'Projeto baseado no site da Ambev de mesmo nome. Consumo de API através de autenticação via Token. Simulação de um carrinho de compras. Tecnologias utilizadas: React, TypeScript e Redux.',
+        title: 'Beer Empire',
+        description: `Personal project based on a real website. It's a complete CRUD with authentication and access level. Made with React, Reduxx, Typescript and Styled Components`,
         image: ProjectEmporio,
-        codeLink: 'https://github.com/leandronunesdev/emporio',
+        codeLink: 'https://github.com/leandronunesdev/beer_empire',
         liveLink: '',
       },
       {
         id: 1,
         title: 'Instagram Clone',
         description:
-          'Projeto de Instagram Clone utilizando React, TypeScript e Redux.',
+          'Instagram Clone project using React, TypeScript and Redux.',
         image: ProjectInstagram,
-        codeLink: 'https://github.com/leandronunesdev/instagram-clone2',
+        codeLink: 'https://github.com/leandronunesdev/instagram_clone_22',
         liveLink: '',
       },
       {
         id: 2,
         title: 'Food Shop',
         description:
-          'Projeto de Loja Online usando consumo de API. Ferramentas: React e TypeScript.',
+          'Online Store Project using API. Tools: React and TypeScript.',
         image: ProjectFoodShop,
         codeLink: 'https://github.com/leandronunesdev/food-shop',
         liveLink: 'https://leandronunesdev.github.io/food-shop/',
       },
       {
         id: 3,
-        title: 'Currículo Online',
-        description:
-          'Projeto de Currículo Online utilizando React e TypeScript.',
+        title: 'Online Curriculum',
+        description: 'Online Resume Design using React and TypeScript.',
         image: ProjectCurriculo,
         codeLink: 'https://github.com/leandronunesdev/curriculo-typescript2',
         liveLink: 'https://leandronunesdev.github.io/curriculo-typescript2/',
@@ -118,16 +115,16 @@ function App() {
       {
         id: 4,
         title: 'Twitter Clone',
-        description: 'Projeto de Twitter Clone utilizando Classes ES6',
+        description: 'Twitter Clone Project using ES6 Classes',
         image: ProjectTwitter,
         codeLink: 'https://github.com/leandronunesdev/twitter-clone2',
         liveLink: 'https://leandronunesdev.github.io/twitter-clone2/',
       },
       {
         id: 6,
-        title: 'Portfólio',
+        title: 'Portfolio',
         description:
-          'Site de portfólio pessoal utilizando React, TypeScript e SASS',
+          'Personal portfolio website using React, TypeScript and SASS',
         image: ProjectPortfolio,
         codeLink: 'https://github.com/leandronunesdev/portfolio-2021',
         liveLink: 'https://leandronunes.dev/',

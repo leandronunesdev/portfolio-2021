@@ -9,7 +9,7 @@ const Contact = () => {
   return (
     <div className='contact-box'>
       <h1 id='contact' className='section-title'>
-        Contato
+        Contact
       </h1>
       <ul>
         <li>

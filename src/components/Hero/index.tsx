@@ -11,21 +11,20 @@ const Hero = () => {
       <div className='hero-text'>
         <h1>
           Leandro Nunes,
-          <br /> Desenvolvedor Front-End
+          <br /> Frontend Engineer
         </h1>
         <p>
-          Desenvolvedor Front-End com conhecimento em ReactJS, React Native,
-          TypeScript, ContextAPI, Redux, JavaScript e Styled Components. Tenho
-          visão crítica e analítica, capacidade de planejamento, organização e
-          senso de urgência. Sou cooperativo, multiplicador de conhecimento,
-          tenho facilidade de comunicação oral e escrita e nível avançado de
-          inglês.
+          Front-End developer with knowledge in ReactJS, TypeScript, Redux,
+          ContextAPI, JavaScript, React Native, and Styled Components. I have
+          critical and analytical vision, ability to plan, organize and sense of
+          urgency. I am cooperative, multiplier of knowledge, I have good
+          communication skills and an advanced level of English.
         </p>
         <a
           href='https://github.com/leandronunesdev/curriculo/raw/master/LEANDRO%20NUNES%20-%20DEV.pdf'
           target='_blank'
         >
-          <button className='button-styled'>Baixar Currículo</button>
+          <button className='button-styled'>Download Curriculum</button>
         </a>
       </div>
       <div className='hero-image desktop'>
