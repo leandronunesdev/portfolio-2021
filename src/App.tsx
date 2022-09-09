@@ -24,7 +24,7 @@ import ProjectTwitter from '../src/images/twitter-clone.png';
 import ProjectTransportadora from '../src/images/transportadora.png';
 import ProjectPortfolio from '../src/images/portfolio.png';
 import ProjectEmporio from '../src/images/emporio.png';
-import ProjectMarvel from '../src/images/marvel_preview.jpeg';
+import ProjectMarvel from '../src/images/marvel_preview.png';
 
 function App() {
   const skillsAPI = {

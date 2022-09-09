@@ -5,13 +5,12 @@
 .project-box {
   display: flex;
   align-items: center;
-  height: 180px;
- 
+  min-height: 180px;
 
   img {
-    width: 246px;    
-    border-radius: 6px;    
-    border: 1px #E0E0E0 solid;
+    width: 246px;
+    border-radius: 6px;
+    border: 1px #e0e0e0 solid;
   }
 
   h1 {
@@ -20,13 +19,13 @@
 
   a {
     text-decoration: none;
-    color: #21243D;
+    color: #21243d;
     font-weight: bold;
     font-size: 30px;
   }
 
   p {
-    color: #21243D;
+    color: #21243d;
     font-size: 16px;
   }
 }
@@ -35,7 +34,7 @@
   display: flex;
   flex-direction: column;
   justify-content: space-between;
-  margin-left: 20px;  
+  margin-left: 20px;
 }
 
 .line {
@@ -54,16 +53,15 @@
   margin-right: 10px;
 }
 
-@media(max-width:700px) {
-  .project-box{
+@media (max-width: 700px) {
+  .project-box {
     flex-direction: column;
-    height: 300px;        
-    text-align: center;   
+    min-height: 300px;
+    text-align: center;
     padding: 50px 0;
-  }  
+  }
 
-  .line{
+  .line {
     margin: 0;
-        
   }
 }
