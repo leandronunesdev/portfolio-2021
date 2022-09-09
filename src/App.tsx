@@ -77,7 +77,7 @@ function App() {
         description: `Comic search website using Marvel's API. Made with React, Redux, TypeScript and Styled Components`,
         image: ProjectMarvel,
         codeLink: 'https://github.com/leandronunesdev/marvel',
-        liveLink: '',
+        liveLink: 'https://leandronunesdev.github.io/marvel/',
       },
       {
         id: 7,
