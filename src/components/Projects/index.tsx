@@ -1,6 +1,3 @@
-import ProjectCurriculo from '../../images/curriculo-typescript.png';
-import ProjectInstagram from '../../images/instagram-clone.png';
-import ProjectFoodShop from '../../images/food-shop.png';
 import Line from '../../images/line.png';
 
 import './Projects.scss';

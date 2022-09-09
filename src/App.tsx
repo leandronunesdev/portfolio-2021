@@ -24,6 +24,7 @@ import ProjectTwitter from '../src/images/twitter-clone.png';
 import ProjectTransportadora from '../src/images/transportadora.png';
 import ProjectPortfolio from '../src/images/portfolio.png';
 import ProjectEmporio from '../src/images/emporio.png';
+import ProjectMarvel from '../src/images/marvel_preview.jpeg';
 
 function App() {
   const skillsAPI = {
@@ -54,29 +55,29 @@ function App() {
         image: LogoGit,
       },
       {
-        id: 4,
+        id: 6,
         name: 'JavaScript',
         image: LogoJavaScript,
       },
       {
-        id: 5,
+        id: 7,
         name: 'CSS3',
         image: LogoCSS,
       },
       {
-        id: 6,
+        id: 8,
         name: 'HTML5',
         image: LogoHTML,
       },
     ],
     projects: [
       {
-        id: 5,
-        title: 'Institutional Website',
-        description: `Freelance work done for a communication agency of a carrier's institutional website. WordPress site with CSS customizations`,
-        image: ProjectTransportadora,
-        codeLink: '',
-        liveLink: 'http://awcompany.com.br/',
+        id: 8,
+        title: `Marvel's Comic Search`,
+        description: `Comic search website using Marvel's API. Made with React, Redux, TypeScript and Styled Components`,
+        image: ProjectMarvel,
+        codeLink: 'https://github.com/leandronunesdev/marvel',
+        liveLink: '',
       },
       {
         id: 7,
@@ -85,6 +86,14 @@ function App() {
         image: ProjectEmporio,
         codeLink: 'https://github.com/leandronunesdev/beer_empire',
         liveLink: '',
+      },
+      {
+        id: 5,
+        title: 'Institutional Website',
+        description: `Freelance work done for a communication agency of a carrier's institutional website. WordPress site with CSS customizations`,
+        image: ProjectTransportadora,
+        codeLink: '',
+        liveLink: 'http://awcompany.com.br/',
       },
       {
         id: 1,

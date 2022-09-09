@@ -31,7 +31,11 @@ const Contact = () => {
           </a>
         </li>
         <li>
-          <a href='mailto:nunes.pessoal@gmail.com' target='_blank'>
+          <a
+            href='mailto:nunes.pessoal@gmail.com'
+            target='_blank'
+            rel='noreferrer'
+          >
             <img src={Gmail} alt='' />
           </a>
         </li>

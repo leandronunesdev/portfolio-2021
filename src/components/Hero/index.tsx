@@ -23,6 +23,7 @@ const Hero = () => {
         <a
           href='https://github.com/leandronunesdev/curriculo/raw/master/LEANDRO%20NUNES%20-%20DEV.pdf'
           target='_blank'
+          rel='noreferrer'
         >
           <button className='button-styled'>Download Curriculum</button>
         </a>
