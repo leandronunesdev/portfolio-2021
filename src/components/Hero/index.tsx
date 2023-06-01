@@ -1,35 +1,35 @@
-import profile_pic from '../../images/profile-picture_square.jpg';
+import profile_pic from "../../images/profile-picture_square.jpg";
 
-import './Hero.scss';
+import "./Hero.scss";
 
 const Hero = () => {
   return (
-    <div className='hero-box'>
-      <div className='hero-image responsive'>
-        <img src={profile_pic} alt='Leandro' />
+    <div className="hero-box">
+      <div className="hero-image responsive">
+        <img src={profile_pic} alt="Leandro" />
       </div>
-      <div className='hero-text'>
+      <div className="hero-text">
         <h1>
           Leandro Nunes,
           <br /> Frontend Engineer
         </h1>
         <p>
-          Front-End developer with knowledge in ReactJS, TypeScript, Redux,
-          ContextAPI, JavaScript, React Native, and Styled Components. I have
-          critical and analytical vision, ability to plan, organize and sense of
-          urgency. I am cooperative, multiplier of knowledge, I have good
-          communication skills and an advanced level of English.
+          Frontend engineer with solid experience in national and international
+          projects, having worked in companies from different fields, such as
+          fintechs, consulting and data. I contributed to the development of
+          applications through clean and scalable codes, focusing on React.js
+          and its entire ecosystem.
         </p>
         <a
-          href='https://github.com/leandronunesdev/curriculo/raw/master/LEANDRO%20NUNES%20-%20DEV.pdf'
-          target='_blank'
-          rel='noreferrer'
+          href="https://github.com/leandronunesdev/curriculo/raw/master/LEANDRO_NUNES_EN.pdf"
+          target="_blank"
+          rel="noreferrer"
         >
-          <button className='button-styled'>Download Curriculum</button>
+          <button className="button-styled">Download Curriculum</button>
         </a>
       </div>
-      <div className='hero-image desktop'>
-        <img src={profile_pic} alt='Leandro' />
+      <div className="hero-image desktop">
+        <img src={profile_pic} alt="Leandro" />
       </div>
     </div>
   );

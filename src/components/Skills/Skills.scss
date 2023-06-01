@@ -1,16 +1,16 @@
 .skills-box {
-  margin-top: 80px;  
+  margin-top: 80px;
 
-  ul{
+  ul {
     display: flex;
     list-style-type: none;
-    justify-content: space-between;    
+    justify-content: space-between;
     text-align: center;
-    margin: 80px 0px;
+    margin: 32px 0px;
     padding: 0px 40px;
   }
   li {
-    margin: 20px;    
+    margin: 20px;
   }
 }
 
@@ -18,16 +18,28 @@
   font-size: 22px;
 }
 
-@media(max-width:700px){
-
-  .skills-box{    
-
-    ul{           
-      flex-direction: column;
-       
+@media (max-width: 850px) {
+  .skills-box {
+    ul {
+      display: grid;
+      grid-template-columns: 1fr 1fr 1fr 1fr;
     }
-    li{
-      margin: 0px;      
+
+    li {
+      margin: 0px;
+    }
+  }
+}
+
+@media (max-width: 450px) {
+  .skills-box {
+    ul {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+    }
+
+    li {
+      margin: 0px;
     }
   }
 }
