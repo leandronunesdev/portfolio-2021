@@ -1,0 +1,43 @@
+{
+  "files": {
+    "main.css": "./static/css/main.a800c875.chunk.css",
+    "main.js": "./static/js/main.b5f27bb2.chunk.js",
+    "main.js.map": "./static/js/main.b5f27bb2.chunk.js.map",
+    "runtime-main.js": "./static/js/runtime-main.7f10fff9.js",
+    "runtime-main.js.map": "./static/js/runtime-main.7f10fff9.js.map",
+    "static/js/2.fbb8272d.chunk.js": "./static/js/2.fbb8272d.chunk.js",
+    "static/js/2.fbb8272d.chunk.js.map": "./static/js/2.fbb8272d.chunk.js.map",
+    "index.html": "./index.html",
+    "static/css/main.a800c875.chunk.css.map": "./static/css/main.a800c875.chunk.css.map",
+    "static/js/2.fbb8272d.chunk.js.LICENSE.txt": "./static/js/2.fbb8272d.chunk.js.LICENSE.txt",
+    "static/media/curriculo-typescript.f18ea407.png": "./static/media/curriculo-typescript.f18ea407.png",
+    "static/media/emporio.4fb1e92a.png": "./static/media/emporio.4fb1e92a.png",
+    "static/media/food-shop.6d51afcc.png": "./static/media/food-shop.6d51afcc.png",
+    "static/media/git.eef44b90.svg": "./static/media/git.eef44b90.svg",
+    "static/media/gmail.dd7bfc1d.svg": "./static/media/gmail.dd7bfc1d.svg",
+    "static/media/graphql.2672399d.svg": "./static/media/graphql.2672399d.svg",
+    "static/media/heart.9587be3a.svg": "./static/media/heart.9587be3a.svg",
+    "static/media/instagram-clone.fd01a024.png": "./static/media/instagram-clone.fd01a024.png",
+    "static/media/jest.64e7eb1d.svg": "./static/media/jest.64e7eb1d.svg",
+    "static/media/logotipo-do-linkedin.e3b78533.svg": "./static/media/logotipo-do-linkedin.e3b78533.svg",
+    "static/media/marvel_preview.87ec8a51.png": "./static/media/marvel_preview.87ec8a51.png",
+    "static/media/nextjs.08aae728.svg": "./static/media/nextjs.08aae728.svg",
+    "static/media/placa-do-github.59f8ab11.svg": "./static/media/placa-do-github.59f8ab11.svg",
+    "static/media/portfolio.3728c0e8.png": "./static/media/portfolio.3728c0e8.png",
+    "static/media/profile-picture_square.48146ed6.jpg": "./static/media/profile-picture_square.48146ed6.jpg",
+    "static/media/react-native.ee35de07.svg": "./static/media/react-native.ee35de07.svg",
+    "static/media/reactjs.08aaf594.svg": "./static/media/reactjs.08aaf594.svg",
+    "static/media/redux.d5316307.svg": "./static/media/redux.d5316307.svg",
+    "static/media/swapi_preview.60641947.png": "./static/media/swapi_preview.60641947.png",
+    "static/media/transportadora.fdcb44d5.png": "./static/media/transportadora.fdcb44d5.png",
+    "static/media/twitter-clone.8468d18e.png": "./static/media/twitter-clone.8468d18e.png",
+    "static/media/typescript.1559de66.svg": "./static/media/typescript.1559de66.svg",
+    "static/media/whatsapp.f662d794.svg": "./static/media/whatsapp.f662d794.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7f10fff9.js",
+    "static/js/2.fbb8272d.chunk.js",
+    "static/css/main.a800c875.chunk.css",
+    "static/js/main.b5f27bb2.chunk.js"
+  ]
+}
